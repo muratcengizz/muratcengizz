@@ -9,15 +9,13 @@
 
 - 📝 I regularly write articles on [https://muratcengiz.org](https://muratcengiz.org)
 
-- 💬 Ask me about **python, linux, data science**
-
 - 📫 How to reach me **murat.cngz00@protonmail.com**
 
 - 📄 Know about my experiences [https://muratcengiz.org](https://muratcengiz.org)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/murat-cengiz-197533204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murat-cengiz-197533204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/murat-cengiz-197533204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murat-cengiz-197533204/" height="30" width="40" /></a>
 <a href="https://kaggle.com/muratsow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muratsow" height="30" width="40" /></a>
 </p>
 
