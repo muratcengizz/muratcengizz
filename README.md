@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratcengizz&label=Profile%20views&color=0e75b6&style=flat" alt="muratcengizz" /> </p>
 
-- 🌱 I’m currently learning **data science, machine learning**
+- 🌱 I’m currently learning **data science, machine learning and computer vision.**
 
 - 👨‍💻 All of my projects are available at [https://muratcengiz.org](https://muratcengiz.org)
 
